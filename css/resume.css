@@ -1,0 +1,12 @@
+/* RESUME STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+    padding-bottom: 2px;
+    padding-top: 80px;
+}
+
+ul {
+    padding-left: 20px;
+}
